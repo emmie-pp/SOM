@@ -1,0 +1,15 @@
+[
+	{"docID": "test_doc",
+  	 "terms" : [
+            ["111",["yy", "val"]],
+            ["222",["bb", "val"]]
+      ]
+	},
+	{"docID": "test_doc2",
+  	 "terms" : [
+            ["111",["yy", "val"]],
+            ["222",["bb", "val"]]
+      ]
+	}
+
+]
